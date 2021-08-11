@@ -1,0 +1,4 @@
+# https://flake8.pycqa.org/en/stable/user/index.html
+[flake8]
+max-line-length = 120
+max-complexity = 25

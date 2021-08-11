@@ -1,0 +1,4 @@
+# https://black.readthedocs.io/en/stable/index.html
+[tool.black]
+verbose = true
+line-length = 120
